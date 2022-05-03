@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/103945371/166573328-d3cbb4b0-b41b-4a48-91ab-c2052b523704.svg"/>
+
+
 # The Coding Wizard Academy's Discord Bot
 This bot is the official bot for the Coding Wizard Academy's Discord server and is being built to help students learn coding and to handle day-to-day discord tasks.
 
